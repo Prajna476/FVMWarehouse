@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 23, 91, 209;
+  --background-end-rgb: 23, 91, 209;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+  ) rgb(var(--background-start-rgb));
+}
+
+.title {
+
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@font-face {
+  font-family: 'PPMondwest-Regular';
+  src: url('/fonts/PPMondwest-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PPNeueBit-Bold';
+  src: url('/fonts/PPNeueBit-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+.square::before {
+  content: '';
+  display: block;
+  padding-top: 100%; /* This creates the aspect ratio 1:1 */
+}
+
+.square-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  /* Your content styling here */
+}
