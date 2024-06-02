@@ -102,16 +102,27 @@ Smart incentivization using QR code dapp, EtherCalc.
 
 # Lilypad
 
-We are developing a Warehouse Equipment NFT and a Service/Repair Work Order NFT for preventive maintenance at the warehouse on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion. This is utilized for developing warehouse service and work order flows, enabling preventive maintenance via integration with alarm clock dapp and logistics scheduler for heavy goods using inter-state trains.
-
-We are extending the #buildwithbacalhau resources to create an NFT for the Warehouse Equipment cad file on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion. This enables us to share and delegate a Work Order NFT on the FVM, enable decentralized NFT-based voting system for contract work by warehouse service providers, Votes are uploaded to IPFS/FVM with the most recent vote linking to one before. 
-
+We are developing a Warehouse Equipment NFT and a Service/Repair Work Order NFT for preventive maintenance at the warehouse on the Filecoin Virtual Machine (FVM / FEVM) using Lilypad with Bacalhau Stable Diffusion. This is utilized for developing warehouse service and work order flows, enabling preventive maintenance via integration with alarm clock dapp and logistics scheduler for heavy goods using inter-state trains.
 
 Screenshots and Demos for usage in FVM Warehouse at  https://drive.google.com/drive/u/1/folders/1NFSDYcx8rxheCX5SmVCHCyRNFhhhF03I
 
 Usage of NFTs generated with bacalhau in alarm clock dapp and logistics scheduler via a  goods train in https://drive.google.com/drive/u/1/folders/17RW3_ANbgHPHx2i7PHXPM65Tv-MuVaHa
 
 Github Link: https://github.com/seetadev/FVMWarehouse/tree/main/FVM-Work-Order/bacalhau-fvm-Work-Order-nft-nfc-tags
+
+We are using Lilypad to develop an AI agent for incident summarization during supply chain management and logistics services and for managing fraud detection and insurance inventory management at the warehouse location. This enables incident management and early stage detection of goods and equipment insurance issues in case of an incident.
+
+Workflow and Core Objectives for building Warehouse AI agents on Lilypad and Galadriel devnet:
+
+Decentralized platform for warehouse and logistics incident reporting and summarization by employees and contractors.
+
+Community-driven approach to improving warehouse safety 
+
+Integration of advanced technologies for incident summarization, detection and prevention.
+
+Smart incentivization using QR code dapp, EtherCalc
+
+We are extending the #buildwithbacalhau resources to create an NFT for the Warehouse Equipment cad file on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion. This enables us to share and delegate a Work Order NFT on the FVM, enable decentralized NFT-based voting system for contract work by warehouse service providers, Votes are uploaded to IPFS/FVM with the most recent vote linking to one before. 
 
 
 # Mona Wallet Unity SDK
@@ -125,4 +136,14 @@ Github link: https://github.com/seetadev/FVMWarehouse/tree/main/Fleek-FVM-Invent
 
 
 
+# WeatherXM
 
+We are building a WeatherXM based Monitoring dapp and deploying on Fleek, which includes the requisite features to share weather conditions like humidity, temperature and conditions, enable remotely monitoring the warehouse using WeatherXM and sync services on used tablets and phones, integration with IP cameras, safety alarms.
+
+The cost of deployment and added technology is limited which could help the warehouse owners operate safely and cost effectively in a variety of geographical regions.
+
+Github link: https://github.com/seetadev/FVMWarehouse/tree/main/Fleek-FVM-Inventory-Manager/Fleek-FVM-Inventory-Manager-dapp-module/Fleek-WeatherXM-dapp-tooling/WeatherXM-smart-contracts-FVM-Warehouse
+
+Screenshots at https://drive.google.com/drive/u/1/folders/1rmz14tGln6nalv8qgPmRje5LiP8kzLVL
+
+Demo for WeatherXM and Fleek Usage and Deployment in FVM Warehouse https://drive.google.com/drive/u/1/folders/1rmz14tGln6nalv8qgPmRje5LiP8kzLVL ( demo-video.mp4 )
