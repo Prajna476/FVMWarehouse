@@ -56,3 +56,17 @@ Demo Video and Screencasts at https://drive.google.com/drive/u/1/folders/1tbjSHz
 Deployment of zk Work Order Listing Verifier contracts using Starknet Sepolia and view at StarkScan (screenshots attached at  https://drive.google.com/drive/u/1/folders/1tbjSHzfWMj5iYqp6wu8931jKhY0oq2nX )
 
 Vercel Link: https://zk-work-order.vercel.app/
+
+
+# Fleek
+
+We are developing an Inventory Management and Warehouse DAO platform and deploying on Fleek that enables warehouse service providers, logistics aggregators and corporate organizations to keep track of all the details of their inventory and warehouse assets,  procurements and refurbishments, transactions across all multiple chains and also display DAO data using Fleek CDN services and a data visualization chart. 
+
+Fleek CDN services  enable scalability and token bridge operations using ERC20 token supply across multiple platforms and blockchains that improve the overall usability and interoperability.
+Screenshots at https://drive.google.com/drive/u/1/folders/1rmz14tGln6nalv8qgPmRje5LiP8kzLVL
+
+Demo for Fleek Usage and Deployment in FVM Warehouse https://drive.google.com/drive/u/1/folders/1rmz14tGln6nalv8qgPmRje5LiP8kzLVL ( demo-video.mp4 )
+
+Web3 Asset Tracker dapp on Fleek also provides the requisite features to share weather conditions like humidity, temperature and conditions, enable remotely monitoring the warehouse using WeatherXM and sync services on used tablets and phones, integration with IP cameras, safety alarms. The cost of deployment and added technology is limited which could help the warehouse owners operate safely and cost effectively in a variety of geographical regions.
+
+
