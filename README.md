@@ -69,4 +69,20 @@ Demo for Fleek Usage and Deployment in FVM Warehouse https://drive.google.com/dr
 
 Web3 Asset Tracker dapp on Fleek also provides the requisite features to share weather conditions like humidity, temperature and conditions, enable remotely monitoring the warehouse using WeatherXM and sync services on used tablets and phones, integration with IP cameras, safety alarms. The cost of deployment and added technology is limited which could help the warehouse owners operate safely and cost effectively in a variety of geographical regions.
 
+# Lit
+
+We are using Lit protocol to automate signing, reading, and writing warehouse work order attestations and inventory insurance NFT data to web3 decentralized networks:
+
+1. Lit Actions: We are using JS function bindings to enable warehouse security data operations like request a signature or a decryption.
+
+2. Token-gate the Work Order Dashboard Page with admin and contractor personas using Lit Protocol.
+
+Github link: please visit https://github.com/seetadev/FVMWarehouse/tree/main/FVM-Work-Order/lit-attestation-modules/lit-actions-delegate-signature
+ And https://github.com/seetadev/FVMWarehouse/tree/main/FVM-Work-Order/lit-attestation-modules/lit-mint-NFT-Verify-sign-jwt-dapp
+
+Demo Video and Screenshots at https://drive.google.com/drive/u/1/folders/1NFSDYcx8rxheCX5SmVCHCyRNFhhhF03I
+
+
+
+
 
