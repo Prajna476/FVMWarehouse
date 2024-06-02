@@ -100,7 +100,7 @@ Integration of advanced technologies for incident summarization, detection and p
 Smart incentivization using QR code dapp, EtherCalc.
 
 
-# Bacalhau
+# Lilypad
 
 We are developing a Warehouse Equipment NFT and a Service/Repair Work Order NFT for preventive maintenance at the warehouse on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion. This is utilized for developing warehouse service and work order flows, enabling preventive maintenance via integration with alarm clock dapp and logistics scheduler for heavy goods using inter-state trains.
 
@@ -114,6 +114,14 @@ Usage of NFTs generated with bacalhau in alarm clock dapp and logistics schedule
 Github Link: https://github.com/seetadev/FVMWarehouse/tree/main/FVM-Work-Order/bacalhau-fvm-Work-Order-nft-nfc-tags
 
 
+# Mona Wallet Unity SDK
+
+We are building a zk Wallet solution using Mona Unity Wallet SDK to enable  an AR/VR solution for preventive maintenance of the warehouse.
+We wish to support operations like the signing of the transaction for the 3d NFTS of warehouse equipment and other cryptographic operations across multiple platforms and blockchains that improve the overall usability and interoperability.  We have developed a Warehouse spare parts NFT marketplace powered by Metamask Unity SDK and Snaps. 
+
+We are trying to enable the zk wallet solution developed using Mona Unity Wallet SDK with Metamask Unity SDK in the 3d warehouse metaverse for an AR/VR solution for preventive maintenance of the warehouse. Please visit the compiled Metamask Unity SDK module and snap  at https://drive.google.com/drive/u/1/folders/1KCI8xWF6te6ru3NLKix1CbF09A7pobv-
+
+Github link: https://github.com/seetadev/FVMWarehouse/tree/main/Fleek-FVM-Inventory-Manager/mona-wallet-unity-warehouse-payments
 
 
 
