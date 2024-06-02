@@ -33,3 +33,26 @@ Warehouse service providers can join a RFP by minting an NFT of that RFP. This N
 Warehouse service providers that have a certain RFP's NFT are eligible to create proposals and vote on them.
 Voting is gasless and the vote is stored on IPFS and Filecoin with the most recent vote linking to one before.
 Votes are uploaded to IPFS with the most recent vote linking to one before. This is done by storing the previous vote's CID in the file of the newest one. Therefore a chain of verifiable data is created. 
+
+
+# Starknet
+
+We are developing a Starknet based dapp solution, which offers an Artificial Intelligence-based object detection system that utilizes Giza for sorting information obtained from warehouse locations, cameras deployed at monitoring spots.
+
+Further, we are developing a Starknet utility token (Starknet Warehouse Pro Token) using Cairo, Open Zeppelin and enabling Smart incentivization using both Ethereum and Starknet blockchains, Pay with QR code dapp, EtherCalc.
+
+Vehicle Repair and Service NFTs on Starknet enable:
+
+Enable hyperlocal warehouse service and repair delivery information.
+Enable QR code based blockchain payments at warehouse sites with support for key Ethereum based blockchain platforms.
+Enhance warehouse safety through smart incentivization of incident reporting by employees and logistics providers.
+
+Screenshots at https://drive.google.com/drive/u/1/folders/1tbjSHzfWMj5iYqp6wu8931jKhY0oq2nX
+
+Demo Video and Screencasts at https://drive.google.com/drive/u/1/folders/1tbjSHzfWMj5iYqp6wu8931jKhY0oq2nX
+
+(please visit Demo- mobile device_ios_screen capture.mov and AI-Object-Detection-Logistics-Starknet-Screencast-Demo.mov)
+
+Deployment of zk Work Order Listing Verifier contracts using Starknet Sepolia and view at StarkScan (screenshots attached at  https://drive.google.com/drive/u/1/folders/1tbjSHzfWMj5iYqp6wu8931jKhY0oq2nX )
+
+Vercel Link: https://zk-work-order.vercel.app/
