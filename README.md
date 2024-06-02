@@ -10,7 +10,7 @@ Starknet and Web3 Work Order Tracker using FVM analytics and CDN services: For d
 
 # Blockchain Eco-system
 
-# Filecoin Virtual Machine and Filecoin
+# Filecoin Virtual Machine 
 
 Filecoin Virtual Machine (FVM): FVM enables us to use building blocks exposed through interfaces, enabling the construction of incident archiving solutions. This improves better outcomes for monitoring, incident reporting, and precision maintenance at the warehouse. We are using FVM for:
 
@@ -81,6 +81,38 @@ Github link: please visit https://github.com/seetadev/FVMWarehouse/tree/main/FVM
  And https://github.com/seetadev/FVMWarehouse/tree/main/FVM-Work-Order/lit-attestation-modules/lit-mint-NFT-Verify-sign-jwt-dapp
 
 Demo Video and Screenshots at https://drive.google.com/drive/u/1/folders/1NFSDYcx8rxheCX5SmVCHCyRNFhhhF03I
+
+
+# Galadriel
+
+We are using Galadriel to develop an AI agent for incident summarization during supply chain management and logistics services and for managing fraud detection and insurance inventory management at the warehouse location. This enables incident management and early stage detection of goods and equipment insurance issues in case of an incident.
+
+Demos at https://drive.google.com/drive/u/1/folders/1X3lQ12CRuyswVenF53UZakYcl86UbxQk
+
+Workflow and Core Objectives for building Warehouse AI agents on Galadriel devnet:
+
+Decentralized platform for warehouse and logistics incident reporting and summarization by employees and contractors.
+
+Community-driven approach to improving warehouse safety 
+
+Integration of advanced technologies for incident summarization, detection and prevention.
+
+Smart incentivization using QR code dapp, EtherCalc.
+
+
+# Bacalhau
+
+We are developing a Warehouse Equipment NFT and a Service/Repair Work Order NFT for preventive maintenance at the warehouse on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion. This is utilized for developing warehouse service and work order flows, enabling preventive maintenance via integration with alarm clock dapp and logistics scheduler for heavy goods using inter-state trains.
+
+We are extending the #buildwithbacalhau resources to create an NFT for the Warehouse Equipment cad file on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion. This enables us to share and delegate a Work Order NFT on the FVM, enable decentralized NFT-based voting system for contract work by warehouse service providers, Votes are uploaded to IPFS/FVM with the most recent vote linking to one before. 
+
+
+Screenshots and Demos for usage in FVM Warehouse at  https://drive.google.com/drive/u/1/folders/1NFSDYcx8rxheCX5SmVCHCyRNFhhhF03I
+
+Usage of NFTs generated with bacalhau in alarm clock dapp and logistics scheduler via a  goods train in https://drive.google.com/drive/u/1/folders/17RW3_ANbgHPHx2i7PHXPM65Tv-MuVaHa
+
+Github Link: https://github.com/seetadev/FVMWarehouse/tree/main/FVM-Work-Order/bacalhau-fvm-Work-Order-nft-nfc-tags
+
 
 
 
